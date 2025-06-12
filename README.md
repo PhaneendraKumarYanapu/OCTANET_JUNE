@@ -1,1 +1,1 @@
-# OCTANET_JUNE
+This is a landing page created using html,css # OCTANET_JUNE
